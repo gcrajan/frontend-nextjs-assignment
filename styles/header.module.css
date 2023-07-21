@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0rem;
+    border-bottom: 1.5px solid orange;
+}
+.imageNav a img{
+    width: 4rem;
+}
+.contentNav ul{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+.contentNav ul li{
+    list-style: none;
+}
+.contentNav ul li a{
+    font-weight: 600;
+}
+.contentNav ul li a:hover{
+    color: orange;
+}

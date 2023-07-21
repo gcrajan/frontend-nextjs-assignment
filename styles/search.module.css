@@ -1,0 +1,11 @@
+.aboutContainer{
+    margin: 0rem 5rem;
+}
+.aboutDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+

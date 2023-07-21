@@ -1,0 +1,11 @@
+.errorDiv{
+    margin: 0rem 5rem;
+}
+.errorDivImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.errorDiv img{
+    width: 60vw;
+}

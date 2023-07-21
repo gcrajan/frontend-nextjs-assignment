@@ -1,0 +1,20 @@
+.homeContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2rem 0rem;
+    gap: 3rem;
+}
+
+.homeContainerInfo h1{
+    font-size: 4rem;
+    font-family: 'Comfortaa', cursive;
+    margin-bottom: 1.5rem;
+    color: orangered
+}
+.homeContainerInfo p{
+    font-size: 1.5rem;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(187, 74, 33);
+}
