@@ -3,9 +3,9 @@
 
 
 
-# Assignment Title: E-commerce Development Task
 
-## Assignment Description:
+
+## Description:
 
 In this assignment, I created a basic e-commerce application using Next.js. I had applied key Nextjs concepts and fundamental web development skills. I had developed a multi-page web application named "OnlineStore" that allows users to browse and search for products.
 And there is also not found page if any extra url is put.
