@@ -12,9 +12,12 @@ And there is also not found page if any extra url is put.
 
 ## Instructions:
 
-1. Clone or download the zip file.
-2. Open terminal and then type npm run dev.
-3. Enjoy the page.
+1. Open command prompt or terminal or git bash.
+   type: git clone https://github.com/gcrajan/frontend-nextjs-assignment.git
+2. Open folder in your vs code. 
+3. Open terminal and then type npm install.
+4. Also type npm run dev.
+5. Enjoy the page.
 
 
 # View Page
